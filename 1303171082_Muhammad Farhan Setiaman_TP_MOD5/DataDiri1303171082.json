@@ -1,0 +1,13 @@
+{"data diri" : {
+	"Home" :{
+	"nama" : "Muhammad Farhan Setiaman",
+	"nim" : "1303171082",
+	"kelas" : "IT - 41 - 02"
+	},
+	"About" : "Saya adalah seorang mahasiswa IT yang akan mengikuti lab webpro pada hari selasa",
+	"Hobbie" : ["Editing", "Watching", "Gaming"],
+	"Skill" : ["Programing sedikit", "Editing sedikit", "Photography sedikit"],
+	"Education" : ["SD", "SMP", "SMA"],
+	"experience" : ["Editor", "Anggota Organisasi", "Bisnis?Invest?"]
+}
+}
